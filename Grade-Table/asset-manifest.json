@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Grade-Table/static/css/main.56e6221f.css",
+    "main.js": "/Grade-Table/static/js/main.39bf7476.js",
+    "static/js/787.0b1eaacf.chunk.js": "/Grade-Table/static/js/787.0b1eaacf.chunk.js",
+    "index.html": "/Grade-Table/index.html",
+    "main.56e6221f.css.map": "/Grade-Table/static/css/main.56e6221f.css.map",
+    "main.39bf7476.js.map": "/Grade-Table/static/js/main.39bf7476.js.map",
+    "787.0b1eaacf.chunk.js.map": "/Grade-Table/static/js/787.0b1eaacf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.39bf7476.js"
+  ]
+}
